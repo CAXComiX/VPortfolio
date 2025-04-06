@@ -1,0 +1,4 @@
+# filepath: c:\Users\LENOVO\VPortfolio\_config.yml
+title: VPortfolio
+description: A portfolio showcasing my writings.
+theme: Midnight
