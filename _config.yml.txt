@@ -1,4 +1,4 @@
 # filepath: c:\Users\LENOVO\VPortfolio\_config.yml
-title: VPortfolio
+title: Veena's Portfolio
 description: A portfolio showcasing my writings.
 theme: Midnight
